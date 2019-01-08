@@ -1,0 +1,14 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+header{
+  h1 a{
+    width:400px;
+    height:400px;
+    background:url(https://raw.githubusercontent.com/alikerock/ezweb/master/assets/profile_logo3.jpg) no-repeat;
+    text-indent:-9999em;
+    display:block;
+  }
+}
