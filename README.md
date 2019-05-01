@@ -11,3 +11,7 @@
 - Gnuboard, XE
 - CAFE24
 - WORDPRESS
+
+# 오프라인 수업 문의
+
+alikerock@gmail.com
