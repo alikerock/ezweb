@@ -14,4 +14,4 @@
 
 # 오프라인 수업 문의
 
-alikerock@gmail.com
+ezwebpub@gmail.com
